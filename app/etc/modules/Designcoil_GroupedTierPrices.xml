@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <Designcoil_GroupedTierPrices>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Designcoil_GroupedTierPrices>
+    </modules>
+</config>

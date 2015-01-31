@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Designcoil_GroupedTierPrices>
+            <version>1.0.1</version>
+        </Designcoil_GroupedTierPrices>
+    </modules>
+    <global>
+        <models>
+            <catalog>
+                <rewrite>
+					<product_type_price>Designcoil_GroupedTierPrices_Model_Product_Type_Grouped_Price</product_type_price>
+                </rewrite>
+            </catalog>
+        </models>
+        <helpers>
+            <designcoil_groupedtierprices>
+                <class>Designcoil_GroupedTierPrices_Helper</class>
+            </designcoil_groupedtierprices>
+        </helpers>
+    </global>
+</config>
